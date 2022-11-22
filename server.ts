@@ -1,1 +1,3 @@
-console.log("hello");
+import { getPadleData } from "./court-stuff";
+
+getPadleData();
